@@ -29,7 +29,5 @@ description: Nespresso MENA App Analytics Event Tracking Guide
 
 #### Conclusion:
 
-A summary of the key takeaways from the document and a reminder of the importance of tracking and analyzing app events to enhance user experience and inform marketing strategies.
 
-This document structure will provide a comprehensive guide for the marketing team to understand the event tracking in the mobile app, best practices for utilizing this data, and how to leverage it for decision-making.
 
